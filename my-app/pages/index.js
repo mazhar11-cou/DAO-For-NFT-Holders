@@ -376,7 +376,7 @@ export default function Home() {
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by Crypto Devs
+        Develop &#10084; by Break Through
       </footer>
     </div>
   );
